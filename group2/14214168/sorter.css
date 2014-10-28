@@ -1,0 +1,20 @@
+h1,h2
+{
+ font-weight:bolder;
+}
+table,th,td
+{
+    border: solid 1px;
+    border-collapse:collapse;
+}
+th
+{
+ background-color:#0B49DD;
+ font:white;
+}
+th:hover
+{
+    cursor: pointer;
+    background-color: rgba(0, 0, 121, 0.5);
+    background-position: center right;
+}
