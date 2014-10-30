@@ -43,3 +43,4 @@ function makeAllTablesSortable(tables) {
 	})(i);
     }
 }
+//
